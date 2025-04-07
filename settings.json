@@ -45,5 +45,7 @@
   },
   "[jinja-html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
-  }
+  },
+  "workbench.colorTheme": "Vesper",
+  "workbench.activityBar.location": "top"
 }
